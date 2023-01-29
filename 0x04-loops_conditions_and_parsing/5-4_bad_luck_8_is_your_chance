@@ -16,5 +16,5 @@ then
 else
     echo "Best School"
 fi
-	(( count++ ))\
+	(( count++ ))
 done
